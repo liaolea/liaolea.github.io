@@ -25,7 +25,7 @@ Publication
 
 (Under review in IJCAI 2025, passing into the second reviewing stage)
 
-Other papers on sentiment analysis and long video comprehension are anonymously submitted to CCF-A conference.
+Other papers on sentiment analysis/long video comprehension/large language models have been anonymously submitted to a CCF-A conference.
 
 Prizes
 ======
