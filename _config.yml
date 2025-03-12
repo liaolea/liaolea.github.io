@@ -22,7 +22,7 @@ repository               : "https://github.com/liaolea/liaolea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/liaolea/liaolea.github.io/profile.png"
+  avatar           : "https://github.com/liaolea/liaolea.github.io/blob/master/profile.png"
   name             : "Ao Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
