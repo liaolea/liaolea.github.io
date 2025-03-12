@@ -11,13 +11,25 @@ I am pursuing a dual degree in Public Administration and Electronic Science and 
 
 Publication
 ======
-Modeling Variants of Prompts for Vision-Language Models (under review in ICCV 2025)
+Modeling Variants of Prompts for Vision-Language Models 
 
-M2SE: A Multistage Multitask Instruction Tuning Strategy for Unified Sentiment and Emotion Analysis (under review in IJCAI 2025)
+**Ao Li**, Zongfang Liu, Xinhua Li, Jinghui Zhang, Pengwei Wang, Hu Wang
+- Under review in ICCV 2025
 
-Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding (under review in ICCV 2025)
+M2SE: A Multistage Multitask Instruction Tuning Strategy for Unified Sentiment and Emotion Analysis 
 
-Bridging Personalization and Trends: SocialAlign for Public Response Prediction (under review in SIGIR 2025)
+**Ao Li**, Longwei Xu, Chen Ling, Jinghui Zhang, Pengwei Wang
+- Under review in IJCAI 2025, passing into the second reviewing stage
+
+Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding 
+
+Anonymous submission
+- Under review in ICCV 2025
+
+Bridging Personalization and Trends: SocialAlign for Public Response Prediction 
+
+Anonymous submission
+- Under review in SIGIR 2025
 
 Prizes
 ======
