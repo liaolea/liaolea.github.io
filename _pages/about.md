@@ -13,11 +13,19 @@ I am pursuing a dual degree in Public Administration and Electronic Science and 
 
 Publication
 ======
-**Modeling Variants of Prompts for Vision-Language Models** [arxiv](https://arxiv.org/abs/2503.08229)
+**1.Modeling Variants of Prompts for Vision-Language Models** [arxiv](https://arxiv.org/abs/2503.08229)
 
 ***Ao Li***, Zongfang Liu, Xinhua Li, Jinghui Zhang, Pengwei Wang, Hu Wang
 
 (Under review in ICCV 2025)
+
+**2.M2SE: A Multistage Multitask Instruction Tuning Strategy for Unified Sentiment and Emotion Analysis** [arxiv](https://arxiv.org/abs/2412.08049)
+
+***Ao Li***, Longwei Xu, Chen Ling, Jinghui Zhang, Pengwei Wang
+
+(Under review in IJCAI 2025, passing into the second reviewing stage)
+
+Two other papers on sentiment analysis and long video comprehension are anonymously submitted to CCF-A conference.
 
 Prizes
 ======
