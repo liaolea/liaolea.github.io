@@ -21,6 +21,6 @@ Publication
 
 Prizes
 ======
-1. Kaggle CommonLit - Evaluate Student Summaries -- bronze medal
-2. Kaggle Optiver - Trading at the Close -- bronze medal
+1. Kaggle CommonLit - Evaluate Student Summaries -- **bronze medal**
+2. Kaggle Optiver - Trading at the Close -- **bronze medal**
 3. Received several academic scholarships from Shandong University
