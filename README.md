@@ -1,19 +1,19 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
+![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
 
 # A simple Github Pages template for personal academic websites.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
 
 ## Introduction
 
-This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+This personal academic website template is based on [startbootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
 
 The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
 
