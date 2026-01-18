@@ -77,28 +77,36 @@
 
 
     <style>
-        /* 优化后的论文图片样式：更大、左对齐 */
+        /* 最终优化：框架整体居左，内容在框架内居中 */
         #publications-md img {
             display: block !important;
-            margin: 20px 0 40px 0 !important; /* 左对齐，增加底部间距以区分不同论文 */
-            width: 85% !important;            /* 增加宽度到 85% */
-            max-width: 800px !important;      /* 限制最大宽度，防止在大屏幕上过度拉伸 */
-            height: 380px !important;         /* 增加高度限制，让图片更宏大 */
-            object-fit: contain !important;   /* 保持比例缩放，不裁剪 */
-            object-position: left !important; /* 缩放后内容依然靠左 */
-            border: 1px solid #f0f0f0 !important;
-            padding: 8px !important;
+            /* 整体靠左：左边距为0，底部留出空间分隔不同论文 */
+            margin: 25px 0 45px 0 !important; 
+            
+            /* 调大“虚拟框”的尺寸 */
+            width: 90% !important;            
+            max-width: 900px !important;      
+            height: 420px !important;         /* 增加高度，使图片看起来更大 */
+            
+            /* 核心修改：在框架内居中 */
+            object-fit: contain !important;   /* 保持比例不裁剪 */
+            object-position: center !important; /* 图片在 420px 高的框内上下左右居中 */
+            
+            /* 美化边框和背景 */
+            border: 1px solid #eee !important;
+            padding: 10px !important;
             background-color: #fff !important;
-            border-radius: 4px !important;
-            box-shadow: 0 2px 15px rgba(0,0,0,0.05) !important; /* 增加一点微弱的阴影提升质感 */
+            border-radius: 8px !important;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
         }
     
-        /* 手机端自动适配 */
+        /* 针对手机端的优化：全宽显示，高度自适应 */
         @media (max-width: 768px) {
             #publications-md img {
                 width: 100% !important;
                 height: auto !important;
-                max-height: 300px !important;
+                max-height: 350px !important;
+                margin: 15px 0 30px 0 !important;
             }
         }
     </style>
