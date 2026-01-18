@@ -4,7 +4,7 @@ I am studying at Shandong University, pursuing a dual degree in Administrative M
 During my undergraduate studies, I received guidance from Pengwei Wang (Associate Professor) and Yuntao Du (Associate Researcher) at Shandong University, as well as Hu Wang at Mohamed bin Zayed University of Artificial Intelligence.
 
 In September 2026, I will begin my PhD studies at the **AIM3 Lab** of Renmin University of China, under the supervision of Professor Qin Jin.
-I am currently undertaking a research internship with the **Xiaomi LLM-PLUS** team.
+I am currently undertaking a research internship with the **Xiaomi LLM-Plus** team.
 
 #### Contact
 
