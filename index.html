@@ -75,6 +75,31 @@
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
+
+    <style>
+        /* 强制规范论文列表中的图片 */
+        #publications-md img {
+            display: block !important;
+            margin: 15px 0 35px 0 !important; /* 左对齐：左外边距为0，下边距加大用于分隔 */
+            width: 450px !important;          /* 统一设定一个较宽的显示区域 */
+            height: 220px !important;         /* 统一设定高度 */
+            object-fit: contain !important;   /* 关键：在保持比例的前提下缩放，不裁剪 */
+            object-position: left !important; /* 确保缩放后的内容靠左显示 */
+            border: 1px solid #f0f0f0 !important;
+            padding: 5px !important;
+            background-color: #fff !important;
+            border-radius: 4px !important;
+        }
+    
+        /* 手机端自适应，防止图片溢出 */
+        @media (max-width: 768px) {
+            #publications-md img {
+                width: 100% !important;
+                height: auto !important;
+            }
+        }
+    </style>
+
 </head>
 
 <body id="page-top">
