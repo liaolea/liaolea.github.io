@@ -77,25 +77,28 @@
 
 
     <style>
-        /* 强制规范论文列表中的图片 */
+        /* 优化后的论文图片样式：更大、左对齐 */
         #publications-md img {
             display: block !important;
-            margin: 15px 0 35px 0 !important; /* 左对齐：左外边距为0，下边距加大用于分隔 */
-            width: 450px !important;          /* 统一设定一个较宽的显示区域 */
-            height: 220px !important;         /* 统一设定高度 */
-            object-fit: contain !important;   /* 关键：在保持比例的前提下缩放，不裁剪 */
-            object-position: left !important; /* 确保缩放后的内容靠左显示 */
+            margin: 20px 0 40px 0 !important; /* 左对齐，增加底部间距以区分不同论文 */
+            width: 85% !important;            /* 增加宽度到 85% */
+            max-width: 800px !important;      /* 限制最大宽度，防止在大屏幕上过度拉伸 */
+            height: 380px !important;         /* 增加高度限制，让图片更宏大 */
+            object-fit: contain !important;   /* 保持比例缩放，不裁剪 */
+            object-position: left !important; /* 缩放后内容依然靠左 */
             border: 1px solid #f0f0f0 !important;
-            padding: 5px !important;
+            padding: 8px !important;
             background-color: #fff !important;
             border-radius: 4px !important;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.05) !important; /* 增加一点微弱的阴影提升质感 */
         }
     
-        /* 手机端自适应，防止图片溢出 */
+        /* 手机端自动适配 */
         @media (max-width: 768px) {
             #publications-md img {
                 width: 100% !important;
                 height: auto !important;
+                max-height: 300px !important;
             }
         }
     </style>
