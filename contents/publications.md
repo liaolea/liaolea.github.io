@@ -25,7 +25,7 @@
 Jinghui Zhang, Kaiyang Wan, Longwei Xu, ***Ao Li***, Zongfang Liu, Xiuying Chen
 ![mm](static/assets/img/mm.png)
 
-**6. [GridPrune: From" Where to Look" to" What to Select" in Visual Token Pruning for MLLMs](https://arxiv.org/abs/2511.10081)** (under review)
+**6. [GridPrune: From" Where to Look" to" What to Select" in Visual Token Pruning for MLLMs](https://arxiv.org/abs/2511.10081)** (Neurocomputing)
 
 Yuxiang Duan, ***Ao Li***, Yingqin Li, Luyu Li, Pengwei Wang
 ![gridprune](static/assets/img/gridprune.png)
